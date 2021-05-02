@@ -1,0 +1,15 @@
+ul.navbar{
+    position: absolute;
+    top: 4em;
+    left: 10em;
+    width: 10em;
+}
+h1{
+    text-shadow: 2px 2px 5px purple;
+}
+body{
+    color: purple;
+    background-color: #d8da3d;
+    padding-left: 30%;
+}
+
